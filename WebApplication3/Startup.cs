@@ -32,7 +32,7 @@ namespace WebApplication3
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("Hello Mohannad Harazai!");
+                    await context.Response.WriteAsync("Hello Mohannad 3d!");
                 });
             });
         }
